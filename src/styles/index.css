@@ -10,3 +10,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.bigcounter{
+    display: flex;
+    flex-direction: row;
+    justify-content:  center;
+    background: black;
+    color: white;
+    font-size: 50px;
+    
+}
+.clockcounter{
+    display:flex;
+    justify-content: center;
+    background: #272626ec;
+    width:60px;
+    height: 100px;
+    border: 2px solid rgba(130, 129, 129, 0.767);
+    border-radius: 10px;
+    margin:5px;
+}
